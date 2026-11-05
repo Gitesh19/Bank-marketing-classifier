@@ -1,10 +1,12 @@
 # Bank Marketing – Term Deposit Subscription Classifier
 
 **BITS Pilani WILP · M.Tech (AIML) · Machine Learning · Assignment 2**
-**Student:** Gitesh Sawant
+**NAME :** Gitesh Sawant
+**BITS ID :** 2026AJ05437
 
-🔗 **Live Streamlit app:** <PASTE-YOUR-STREAMLIT-URL-HERE>
-🔗 **GitHub repository:** <PASTE-YOUR-GITHUB-URL-HERE>
+
+**Live Streamlit app:** <https://gitesh-bank-marketing.streamlit.app/>
+**GitHub repository:** <https://github.com/Gitesh19/Bank-marketing-classifier>
 
 ---
 
